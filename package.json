@@ -4,7 +4,7 @@
   "description": "freecodecamp how-to-npm challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "fahmi",
   "license": "ISC",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fahmifan/fcc-how-to-npm/issues"
   },
-  "homepage": "https://github.com/fahmifan/fcc-how-to-npm#readme"
+  "homepage": "https://github.com/fahmifan/fcc-how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
