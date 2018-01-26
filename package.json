@@ -1,6 +1,6 @@
 {
   "name": "@fahmifan/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "freecodecamp how-to-npm challenge",
   "main": "index.js",
   "scripts": {
