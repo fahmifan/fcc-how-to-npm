@@ -1,0 +1,22 @@
+{
+  "name": "@fahmifan/how-to-npm",
+  "version": "1.0.0",
+  "description": "freecodecamp how-to-npm challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fahmi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fahmifan/fcc-how-to-npm.git"
+  },
+  "keywords": [
+    "fcc-nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/fahmifan/fcc-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/fahmifan/fcc-how-to-npm#readme"
+}
