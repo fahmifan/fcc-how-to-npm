@@ -1,6 +1,6 @@
 {
   "name": "@fahmifan/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "freecodecamp how-to-npm challenge",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/fahmifan/fcc-how-to-npm/issues"
   },
   "homepage": "https://github.com/fahmifan/fcc-how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
