@@ -1,1 +1,1 @@
-This is freecodecamp how-to-npm challenge
+This is freecodecamp how-to-npm & learnyounode challenge
